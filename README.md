@@ -8,4 +8,4 @@ by the team:
 - Saksham Jain (@jnsaksham11)
 - Mohana Evuri (@rennaMAhcuS)
 
-For more details, refer to [**the report**](report.pdf)
+For more details, refer to [**the report**](report.pdf).
