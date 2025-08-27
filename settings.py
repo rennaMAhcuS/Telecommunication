@@ -1,4 +1,4 @@
-CAM_NO = 2  # 0 = default webcam
+CAM_NO = 0  # 0 = default webcam
 
 N_BITS = 5
 N_ROWS, N_COLS = 4, 7
